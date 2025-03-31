@@ -64,11 +64,14 @@ src/
    ./mvnw spring-boot:run
   ```
 
----
 
 ## 📄 License
 This project is part of a university coursework submission and is not licensed for public or commercial use.
+---
 **Author**: Dennis van den Brock
+
 **Course**: Programming Web Applications (DSPWA102201)
+
 **Instructor**: Christoph Schopp
+
 **Submission Deadline**: March 31, 2025
